@@ -4,7 +4,7 @@ import logging
 from aiogram import Dispatcher, Bot
 from handlers import start, weather
 
-TOKEN = '7021139951:AAF-0BiBJvyZfL2FytupPAXRs-pRulkLNCE'
+TOKEN = ''
 
 async def run():
     bot = Bot(TOKEN)
